@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid.utils
+package cl.fridabella.stopcoronavirus.utils
 
 import java.text.SimpleDateFormat
 import java.util.*

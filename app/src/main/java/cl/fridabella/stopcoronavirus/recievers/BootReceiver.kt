@@ -1,10 +1,10 @@
-package io.github.z3r0c00l_2k.aquadroid.recievers
+package cl.fridabella.stopcoronavirus.recievers
 
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
-import io.github.z3r0c00l_2k.aquadroid.helpers.AlarmHelper
-import io.github.z3r0c00l_2k.aquadroid.utils.AppUtils
+import cl.fridabella.stopcoronavirus.helpers.AlarmHelper
+import cl.fridabella.stopcoronavirus.utils.AppUtils
 
 class BootReceiver : BroadcastReceiver() {
     private val alarm = AlarmHelper()

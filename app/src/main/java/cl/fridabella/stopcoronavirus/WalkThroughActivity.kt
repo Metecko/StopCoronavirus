@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid
+package cl.fridabella.stopcoronavirus
 
 import android.content.Intent
 import android.os.Build
@@ -43,7 +43,7 @@ class WalkThroughActivity : AppCompatActivity() {
             return 3
         }
 
-        override fun getItem(i: Int): Fragment? {
+        override fun getItem(i: Int): Fragment {
 
             when (i) {
                 0 -> {
@@ -54,12 +54,10 @@ class WalkThroughActivity : AppCompatActivity() {
                     return WalkThroughTwo()
                 }
 
-                2 -> {
+                else -> {
                     return WalkThroughThree()
                 }
             }
-
-            return null
         }
     }
 

@@ -1,13 +1,13 @@
-package io.github.z3r0c00l_2k.aquadroid.recievers
+package cl.fridabella.stopcoronavirus.recievers
 
 import android.annotation.SuppressLint
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent
 import android.media.RingtoneManager
-import io.github.z3r0c00l_2k.aquadroid.R
-import io.github.z3r0c00l_2k.aquadroid.helpers.NotificationHelper
-import io.github.z3r0c00l_2k.aquadroid.utils.AppUtils
+import cl.fridabella.stopcoronavirus.R
+import cl.fridabella.stopcoronavirus.helpers.NotificationHelper
+import cl.fridabella.stopcoronavirus.utils.AppUtils
 
 class NotifierReceiver : BroadcastReceiver() {
 

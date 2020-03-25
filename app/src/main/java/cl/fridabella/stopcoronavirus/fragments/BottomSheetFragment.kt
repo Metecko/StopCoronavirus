@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid.fragments
+package cl.fridabella.stopcoronavirus.fragments
 
 import android.app.Activity
 import android.app.TimePickerDialog
@@ -14,11 +14,11 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
-import io.github.z3r0c00l_2k.aquadroid.MainActivity
-import io.github.z3r0c00l_2k.aquadroid.R
-import io.github.z3r0c00l_2k.aquadroid.helpers.AlarmHelper
-import io.github.z3r0c00l_2k.aquadroid.helpers.SqliteHelper
-import io.github.z3r0c00l_2k.aquadroid.utils.AppUtils
+import cl.fridabella.stopcoronavirus.MainActivity
+import cl.fridabella.stopcoronavirus.R
+import cl.fridabella.stopcoronavirus.helpers.AlarmHelper
+import cl.fridabella.stopcoronavirus.helpers.SqliteHelper
+import cl.fridabella.stopcoronavirus.utils.AppUtils
 import kotlinx.android.synthetic.main.bottom_sheet_fragment.*
 import java.math.RoundingMode
 import java.text.DecimalFormat

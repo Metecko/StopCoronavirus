@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid.utils
+package cl.fridabella.stopcoronavirus.utils
 
 import com.github.mikephil.charting.components.AxisBase
 import com.github.mikephil.charting.formatter.ValueFormatter

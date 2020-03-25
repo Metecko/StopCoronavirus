@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid.helpers
+package cl.fridabella.stopcoronavirus.helpers
 
 import android.app.Notification
 import android.app.NotificationChannel
@@ -14,9 +14,9 @@ import android.net.Uri
 import android.os.Build
 import android.util.Log
 import androidx.core.app.NotificationCompat
-import io.github.z3r0c00l_2k.aquadroid.MainActivity
-import io.github.z3r0c00l_2k.aquadroid.R
-import io.github.z3r0c00l_2k.aquadroid.utils.AppUtils
+import cl.fridabella.stopcoronavirus.MainActivity
+import cl.fridabella.stopcoronavirus.R
+import cl.fridabella.stopcoronavirus.utils.AppUtils
 import java.util.*
 
 class NotificationHelper(val ctx: Context) {

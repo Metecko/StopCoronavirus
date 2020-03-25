@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid
+package cl.fridabella.stopcoronavirus
 
 import android.content.Intent
 import android.content.SharedPreferences
@@ -13,10 +13,10 @@ import com.daimajia.androidanimations.library.Techniques
 import com.daimajia.androidanimations.library.YoYo
 import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.textfield.TextInputLayout
-import io.github.z3r0c00l_2k.aquadroid.fragments.BottomSheetFragment
-import io.github.z3r0c00l_2k.aquadroid.helpers.AlarmHelper
-import io.github.z3r0c00l_2k.aquadroid.helpers.SqliteHelper
-import io.github.z3r0c00l_2k.aquadroid.utils.AppUtils
+import cl.fridabella.stopcoronavirus.fragments.BottomSheetFragment
+import cl.fridabella.stopcoronavirus.helpers.AlarmHelper
+import cl.fridabella.stopcoronavirus.helpers.SqliteHelper
+import cl.fridabella.stopcoronavirus.utils.AppUtils
 import kotlinx.android.synthetic.main.activity_main.*
 
 

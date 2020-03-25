@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid.helpers
+package cl.fridabella.stopcoronavirus.helpers
 
 import android.app.AlarmManager
 import android.app.PendingIntent
@@ -7,8 +7,8 @@ import android.content.Context
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.util.Log
-import io.github.z3r0c00l_2k.aquadroid.recievers.BootReceiver
-import io.github.z3r0c00l_2k.aquadroid.recievers.NotifierReceiver
+import cl.fridabella.stopcoronavirus.recievers.BootReceiver
+import cl.fridabella.stopcoronavirus.recievers.NotifierReceiver
 import java.util.concurrent.TimeUnit
 
 class AlarmHelper {

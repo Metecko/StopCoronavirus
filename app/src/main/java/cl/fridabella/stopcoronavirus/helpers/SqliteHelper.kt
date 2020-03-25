@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid.helpers
+package cl.fridabella.stopcoronavirus.helpers
 
 import android.content.ContentValues
 import android.content.Context

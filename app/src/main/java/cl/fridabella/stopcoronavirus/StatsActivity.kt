@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid
+package cl.fridabella.stopcoronavirus
 
 import android.content.SharedPreferences
 import android.database.Cursor
@@ -12,9 +12,9 @@ import com.github.mikephil.charting.components.XAxis
 import com.github.mikephil.charting.data.Entry
 import com.github.mikephil.charting.data.LineData
 import com.github.mikephil.charting.data.LineDataSet
-import io.github.z3r0c00l_2k.aquadroid.helpers.SqliteHelper
-import io.github.z3r0c00l_2k.aquadroid.utils.AppUtils
-import io.github.z3r0c00l_2k.aquadroid.utils.ChartXValueFormatter
+import cl.fridabella.stopcoronavirus.helpers.SqliteHelper
+import cl.fridabella.stopcoronavirus.utils.AppUtils
+import cl.fridabella.stopcoronavirus.utils.ChartXValueFormatter
 import kotlinx.android.synthetic.main.activity_stats.*
 
 

@@ -1,4 +1,4 @@
-package io.github.z3r0c00l_2k.aquadroid
+package cl.fridabella.stopcoronavirus
 
 import android.app.TimePickerDialog
 import android.content.Context
@@ -12,7 +12,7 @@ import android.view.View
 import android.view.inputmethod.InputMethodManager
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.snackbar.Snackbar
-import io.github.z3r0c00l_2k.aquadroid.utils.AppUtils
+import cl.fridabella.stopcoronavirus.utils.AppUtils
 import kotlinx.android.synthetic.main.activity_init_user_info.*
 import java.math.RoundingMode
 import java.text.DecimalFormat
